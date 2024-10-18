@@ -1,4 +1,4 @@
-## Hello! 👋 I'm a security professional that specializes in incident response activiies, security architecture design, security research, and open source code development.
+## Hello! 👋 I'm a security professional that specializes in incident response activities, security architecture design, security research, and open source code development.
 
 ### 🌱 I’m currently learning:
 - C++ Development
