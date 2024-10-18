@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello! 👋 I'm a security professional that specializes in incident response activiies, security architecture design, security research, and open source code development.
+
+### 🌱 I’m currently learning:
+- C++ Development
+- Advanced Offensive Security Techniques
+- Detection Engineering
+- Offensive Security for ML/AI
+
+### Projects I've worked on:
+- Assisted Log Enable for AWS (I'm the original author) - https://github.com/awslabs/assisted-log-enabler-for-aws
+- AWS CloudSaga (I'm the original author) - https://github.com/awslabs/aws-cloudsaga
 
 <!--
 **hackersifu/hackersifu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
