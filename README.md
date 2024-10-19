@@ -7,7 +7,7 @@
 - Offensive Security for ML/AI
 
 ### Projects I've worked on:
-- Assisted Log Enable for AWS (I'm the original author) - https://github.com/awslabs/assisted-log-enabler-for-aws
+- Assisted Log Enabler for AWS (I'm the original author) - https://github.com/awslabs/assisted-log-enabler-for-aws
 - AWS CloudSaga (I'm the original author) - https://github.com/awslabs/aws-cloudsaga
 
 <!--
