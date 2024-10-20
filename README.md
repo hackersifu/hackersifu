@@ -5,6 +5,7 @@
 - Advanced Offensive Security Techniques
 - Detection Engineering
 - Offensive Security for ML/AI
+- How to beome a Bug Bounty Researcher
 
 ### Projects I've worked on:
 - Assisted Log Enabler for AWS (I'm the original author) - https://github.com/awslabs/assisted-log-enabler-for-aws
