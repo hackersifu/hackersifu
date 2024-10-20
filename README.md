@@ -10,6 +10,9 @@
 - Assisted Log Enabler for AWS (I'm the original author) - https://github.com/awslabs/assisted-log-enabler-for-aws
 - AWS CloudSaga (I'm the original author) - https://github.com/awslabs/aws-cloudsaga
 
+### GitHub Stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackersifu)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **hackersifu/hackersifu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
