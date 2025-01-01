@@ -15,7 +15,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackersifu&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 # Visitors (Thank you for stopping by!)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hackersifu.hackersifu&left_color=green&right_color=red)
+![Visitor Count](https://profile-counter.glitch.me/hackersifu/count.svg)
 
 <!--
 **hackersifu/hackersifu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
