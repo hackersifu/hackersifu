@@ -14,7 +14,7 @@
 ### GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackersifu&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-# Visitors (Thank you for stopping by!)
+# Visitors as of January 1st, 2025 (Thank you for stopping by!)
 ![Visitor Count](https://profile-counter.glitch.me/hackersifu/count.svg)
 
 <!--
