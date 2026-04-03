@@ -28,10 +28,10 @@ I specialize in malware analysis, cloud security (AWS), and developing automatio
 
 ### 🤝 Open Source Contributions
 
-- **[OpenClaw](https://github.com/openclaw/openclaw/pull/22325)**  
+- **OpenClaw** — https://github.com/openclaw/openclaw/pull/22325  
   Improved attachment parsing safety by preventing potential memory exhaustion during base64 decoding of large inline payloads.
 
-- **[Prowler](https://github.com/prowler-cloud/prowler/pull/824)**  
+- **Prowler** — https://github.com/prowler-cloud/prowler/pull/824  
   Contributed enhancements to cloud security auditing workflows for AWS environments.
 
 ### ✍️ Writing & Research
